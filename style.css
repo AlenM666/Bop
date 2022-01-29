@@ -1,0 +1,23 @@
+* {
+  box-sizing:border-box;
+  margin:0;
+  padding:0;
+}
+canvas{
+    border: 1px solid black;
+}
+html, body {
+  height:100%;
+  width:100%;
+}
+
+
+body {
+  align-content:space-around;
+  background-color:#545f5f;
+  /* color:#FBF5F3; */
+  color: white;
+  display:grid;
+  justify-content:center;
+}
+

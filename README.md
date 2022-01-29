@@ -1,4 +1,4 @@
-# Jump
+# Bop
 
 <h2>Web Jumping game.</h2>
 <br>
